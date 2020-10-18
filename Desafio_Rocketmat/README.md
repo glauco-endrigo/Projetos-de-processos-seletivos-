@@ -132,7 +132,53 @@ Para poder importar arquivos ipynb, use:
    #### 4. Solução Machine Learning
       4.1 Melhores funcionários de acordo com a métrica "last_evaluation".
       
- ## Sumário do móduloModelo_de_predição
+ ## Sumário do módulo Modelo_de_predição
+ 
+ #### 1. Introdução
+      1.1  Objetivo 
+      1.2  Bibliotecas
+      
+ #### 2. Dados 
+      2.1 Ler os dados
+      2.2 Ler os dados pré-processados:
+      2.3 Separando os dados :
+       
+ #### 3. Pré-processadores
+      3.1 Criando o pré-processador
+      3.2 Funções de limpeza de dados testadas:
+      3.3 Funções de padronização e normalização testadas:
+      3.4 Funções para encoding:
+       
+ #### 4.  Fluxo de processos com Pipeline:
+      4.1 Modelos de classificação testados  
+          4.11  K Nearest Neighbors
+          4.12  Support Vector Machine
+          4.13  Árvore de decisão
+          4.14  Regressão logística
+      4.2 Pipeline
+      4.3 Dicionário de pipelines
+       
+       
+ #### 5. Validação cruzada: Avaliando o desempenho do estimador
+   
+ #### 6. Ajuste fino de parâmetros:
+       
+      6.1 Parâmetros dos modelos de Machine Learning
+      6.2 Aplicando a técnica Grid search
+       
+ #### 7. Seleção de Features
+      7.1 Definindo o melhor k para a função de seleção de Features: SelectKBest()
+      7.2 Adicionando a função SelectKBest() ao Pipeline
+       
+ #### 8.  Persistindo os modelos para o disco
+   
+ #### 9.  Verificando quais funcionários valiosos sairão da empresa:
+       
+      9.1 Filtro: Melhores funcionários
+      9.2 Modelo escolhido para a solução
+      9.3 Importância das Features
+      9.4 Solução
+
 
 
 
