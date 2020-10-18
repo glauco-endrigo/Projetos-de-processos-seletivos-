@@ -74,7 +74,7 @@ Problemas:
 | Sensor_Proximity(1-highest/10-lowest) | Sensor de próximidade, o quão perto eles estão do laptop da empresa. |
 
 
-
+<!-- Descrição dos arquivos -->
 #### Descrição dos arquivos: 
 
 * HR_Engagement_Sat_Sales_UpdatedV4.0.csv - Dados do final da safra de 2018-2019.
@@ -104,6 +104,7 @@ Os campos do conjunto de dados incluem:
 Para poder importar arquivos ipynb, use:
 * pip install import-ipynb 
 
+<!-- Sumário do módulo main -->
 ## Sumário do módulo main:
 
    #### 1. Introdução
@@ -132,7 +133,8 @@ Para poder importar arquivos ipynb, use:
     
    #### 4. Solução Machine Learning
       4.1 Melhores funcionários de acordo com a métrica "last_evaluation".
-      
+
+<!-- Sumário do módulo Modelo_de_predição -->
  ## Sumário do módulo Modelo_de_predição
  
  #### 1. Introdução
