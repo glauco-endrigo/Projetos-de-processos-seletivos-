@@ -1,0 +1,34 @@
+Name
+Emp_Collaborative_2
+Emp_Collaborative_3
+Emp_Collaborative_4
+Emp_Collaborative_5
+Emp_Competitive_2
+Emp_Competitive_3
+Emp_Competitive_4
+Emp_Competitive_5
+Emp_Work_Status_3
+Emp_Work_Status_4
+Emp_Work_Status_5
+EMP_Sat_OnPrem_1
+EMP_Sat_OnPrem_2
+EMP_Sat_OnPrem_3
+EMP_Sat_OnPrem_4
+EMP_Sat_OnPrem_5
+EMP_Sat_Remote_1
+EMP_Sat_Remote_2
+EMP_Sat_Remote_3
+EMP_Sat_Remote_4
+EMP_Sat_Remote_5
+EMP_Engagement_1
+EMP_Engagement_2
+EMP_Engagement_3
+EMP_Engagement_4
+EMP_Engagement_5
+Women_Leave
+Men_Leave
+CSR Factor
+sales
+Trending Perf
+Talent_Level
+Validated_Talent_Level
