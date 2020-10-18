@@ -13,6 +13,8 @@ Data: 05/09/2020
 
 * [Objetivo](#Objetivo)
 * [Descrição da base de dados](#Descrição-da-base-de-dados)
+* [Descrição dos arquivos](Descrição-dos-arquivos)
+* [Sumário do módulo main](Sumário-do-módulo-main)
 
 <!-- Objetivo -->
 #### Objetivo:
@@ -101,7 +103,7 @@ Os campos do conjunto de dados incluem:
 Para poder importar arquivos ipynb, use:
 * pip install import-ipynb 
 
-## Solução:
+## Sumário do módulo main:
 
    # 1. Introdução
       1.1  Objetivo inicial
