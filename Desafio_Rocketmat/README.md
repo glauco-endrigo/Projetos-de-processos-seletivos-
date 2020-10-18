@@ -27,7 +27,7 @@ Problemas:
 1 -  Funcionários valiosos estão saindo prematuramente? Quais funcionários valiosos sairão em seguida ?. 
 
 
-
+<!-- Descrição da base de dados -->
 #### Descrição da base de dados:
 | Variável                 | Descrição                                                    |
 | ------------------------ | ------------------------------------------------------------ |
