@@ -105,19 +105,19 @@ Para poder importar arquivos ipynb, use:
 
 ## Sumário do módulo main:
 
-   # 1. Introdução
+   #### 1. Introdução
       1.1  Objetivo inicial
       1.2  Premissas
       1.3  Bibliotecas
     
-   # 2. Análise inicial
+   #### 2. Análise inicial
       2.1 Ler o arquivo 
       2.2 Estatística básica
       2.3 Verificando os valores faltantes 
       2.4 Valores duplicados
       2.5 Considerações
         
-   # 3 Análise exploratória de dados (AED)
+   #### 3 Análise exploratória de dados (AED)
       3.1 Pré-processamento inicial
       3.2 Mapa de correlação
       3.3 Coeficiente de Correlação de Pearson
@@ -129,7 +129,7 @@ Para poder importar arquivos ipynb, use:
       3.9 Inspeção visual - Histogramas
       3.10 Criando um dicionário de features
     
-   # 4. Solução Machine Learning
+   #### 4. Solução Machine Learning
       4.1 Melhores funcionários de acordo com a métrica "last_evaluation".
 
 
