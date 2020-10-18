@@ -131,6 +131,8 @@ Para poder importar arquivos ipynb, use:
     
    #### 4. Solução Machine Learning
       4.1 Melhores funcionários de acordo com a métrica "last_evaluation".
+      
+ ## Sumário do móduloModelo_de_predição
 
 
 
