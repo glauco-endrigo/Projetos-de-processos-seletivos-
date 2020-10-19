@@ -198,6 +198,8 @@ Para poder importar arquivos ipynb, use:
 <!-- Fluxograma do módulo Modelo_de_predição -->
 #### Fluxograma do módulo Modelo_de_predição
 
+<!-- Principais bibliotecas -->
+#### Principais bibliotecas
 
 
 
