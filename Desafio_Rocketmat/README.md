@@ -25,6 +25,7 @@ Data: 05/09/2020
 * [Procedimentos](#Procedimentos)
 * [Licença](#Licença)
 * [Contato](#Contato)
+* [Agradecimentos](#Agradecimentos)
 
 <!-- Objetivo -->
 #### Objetivo:
