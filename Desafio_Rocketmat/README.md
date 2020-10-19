@@ -201,5 +201,19 @@ Para poder importar arquivos ipynb, use:
 <!-- Principais bibliotecas -->
 #### Principais bibliotecas
 
+<!-- Pré-requisitos -->
+#### Pré-requisitos
+
+<!-- Procedimentos -->
+#### Procedimentos
+
+<!-- Licença -->
+#### Licença
+
+<!-- Contato -->
+#### Contato
+
+<!-- Agradecimentos -->
+#### Agradecimentos
 
 
