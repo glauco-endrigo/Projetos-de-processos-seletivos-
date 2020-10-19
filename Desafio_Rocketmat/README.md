@@ -194,6 +194,9 @@ Para poder importar arquivos ipynb, use:
       9.2 Modelo escolhido para a solução
       9.3 Importância das Features
       9.4 Solução
+      
+<!-- Fluxograma do módulo Modelo_de_predição -->
+#### Fluxograma do módulo Modelo_de_predição
 
 
 
