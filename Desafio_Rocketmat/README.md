@@ -16,8 +16,11 @@ Data: 05/09/2020
    * [Objetivo](#Objetivo)
    * [Descrição da base de dados](#Descrição-da-base-de-dados)
    * [Descrição dos arquivos](#Descrição-dos-arquivos)
+   * [Descrição dos módulos](#Descrição-dos-módulos)
    * [Sumário do módulo main](#Sumário-do-módulo-main)
    * [Sumário do módulo Modelo_de_predição](#Sumário-do-módulo-Modelo_de_predição)
+   * [Fluxograma do módulo Modelo_de_predição ](#Fluxograma-do-módulo-Modelo_de_predição)
+   * [Principais bibliotecas](#principais-bibliotecas)
 
 <!-- Objetivo -->
 #### Objetivo:
