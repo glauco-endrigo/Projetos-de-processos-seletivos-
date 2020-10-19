@@ -114,8 +114,11 @@ Os campos do conjunto de dados incluem:
 Para poder importar arquivos ipynb, use:
 * pip install import-ipynb 
 
+<!-- Descrição dos módulos -->
+#### Descrição dos módulos
+
 <!-- Sumário do módulo main -->
-## Sumário do módulo main:
+#### Sumário do módulo main:
 
    #### 1. Introdução
       1.1  Objetivo inicial
@@ -145,7 +148,7 @@ Para poder importar arquivos ipynb, use:
       4.1 Melhores funcionários de acordo com a métrica "last_evaluation".
 
 <!-- Sumário do módulo Modelo_de_predição -->
- ## Sumário do módulo Modelo_de_predição
+ #### Sumário do módulo Modelo_de_predição
  
  #### 1. Introdução
       1.1  Objetivo 
