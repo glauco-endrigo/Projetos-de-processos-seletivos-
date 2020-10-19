@@ -21,6 +21,10 @@ Data: 05/09/2020
    * [Sumário do módulo Modelo_de_predição](#Sumário-do-módulo-Modelo_de_predição)
    * [Fluxograma do módulo Modelo_de_predição ](#Fluxograma-do-módulo-Modelo_de_predição)
    * [Principais bibliotecas](#principais-bibliotecas)
+* [Pré-requisitos](#Pré-requisitos)
+* [Procedimentos](#Procedimentos)
+* [Licença](#Licença)
+* [Contato](#Contato)
 
 <!-- Objetivo -->
 #### Objetivo:
