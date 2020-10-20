@@ -217,4 +217,6 @@ Link do projeto: [https://github.com/glauco-endrigo/Projetos-de-processos-seleti
 <!-- Agradecimentos -->
 #### Agradecimentos
 
+Agradeço a equipe da  Rocketmat por realizarem um processo  seletivo que foi capaz de agregar valor aos candidatos. Fico grato também por me darem um feedback atencioso a respeito do Teste Prático. . 
+
 
