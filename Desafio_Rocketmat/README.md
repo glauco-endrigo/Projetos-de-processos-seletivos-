@@ -205,10 +205,10 @@ Para poder importar arquivos ipynb, use:
 
 <!-- Licença -->
 #### Licença
+Distribuído sob a licença MIT. Veja `LICENÇA` para mais informações.
 
 <!-- Contato -->
 #### Contato
-
 
 Glauco Endrigo Moura de Lima - [@linkedin](https://www.linkedin.com/in/glauco-endrigo-b6b688181/) - glauco.endrigo@hotmail.com
 
