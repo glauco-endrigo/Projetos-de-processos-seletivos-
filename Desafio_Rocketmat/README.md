@@ -180,7 +180,8 @@ Para poder importar arquivos ipynb, use:
        
  #### 7. Seleção de Features
       7.1 Definindo o melhor k para a função de seleção de Features: SelectKBest()
-      7.2 Adicionando a função SelectKBest() ao Pipeline
+      7.2 Gráficos de K vs mean absolute error (MAE)
+      7.3 Adicionando a função SelectKBest() ao Pipeline
        
  #### 8.  Persistindo os modelos para o disco
    
