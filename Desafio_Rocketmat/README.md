@@ -3,10 +3,6 @@
 # Rocketmat <br />
 ### Processo seletivo para Estágio em Data Science <br />
 
-Glauco Endrigo Moura de Lima
-
-Email: glauco.endrigo@hotmail.com
-
 Data: 05/09/2020  
 
 * [Link do dataset:](https://www.kaggle.com/krismurphy01/data-lab)
@@ -212,6 +208,11 @@ Para poder importar arquivos ipynb, use:
 
 <!-- Contato -->
 #### Contato
+
+
+Glauco Endrigo Moura de Lima - [@linkedin](https://www.linkedin.com/in/glauco-endrigo-b6b688181/) - glauco.endrigo@hotmail.com
+
+Link do projeto: [https://github.com/glauco-endrigo/Projetos-de-processos-seletivos-](https://github.com/glauco-endrigo/Projetos-de-processos-seletivos-)
 
 <!-- Agradecimentos -->
 #### Agradecimentos
