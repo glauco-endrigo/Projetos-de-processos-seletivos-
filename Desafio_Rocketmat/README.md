@@ -110,8 +110,6 @@ Os campos do conjunto de dados incluem:
 * Departamentos
 * Salário
 
-Para poder importar arquivos ipynb, use:
-* pip install import-ipynb 
 
 <!-- Descrição dos módulos -->
 #### Descrição dos módulos
@@ -203,6 +201,9 @@ Para poder importar arquivos ipynb, use:
 
 <!-- Pré-requisitos -->
 #### Pré-requisitos
+
+Para poder importar arquivos ipynb, use:
+* pip install import-ipynb 
 
 <!-- Procedimentos -->
 #### Procedimentos
