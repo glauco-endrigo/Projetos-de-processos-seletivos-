@@ -2,8 +2,6 @@
 ## Quais funcionários valiosos provavelmente sairão da empresa? Qual a provável razão ?
   
 
-* [Link do dataset:](https://www.kaggle.com/krismurphy01/data-lab)
-
 ## Tabela de conteúdo
 * [Sobre o projeto](Sobre-o-projeto)
    * [Objetivo](#Objetivo)
@@ -42,6 +40,9 @@ neste dataset. Construir um ou mais modelos e nos mostrar habilidades de modelar
 
 <!-- Descrição da base de dados -->
 #### Descrição da base de dados:
+
+[Link do dataset:](https://www.kaggle.com/krismurphy01/data-lab)
+
 | Variável                 | Descrição                                                    |
 | ------------------------ | ------------------------------------------------------------ |
 | ID                       | Identificador do funcionário                                 |
