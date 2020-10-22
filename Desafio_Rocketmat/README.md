@@ -39,9 +39,7 @@ neste dataset. Construir um ou mais modelos e nos mostrar habilidades de modelar
 
 
 <!-- Descrição da base de dados -->
-#### Descrição da base de dados:
-
-[Link do dataset:](https://www.kaggle.com/krismurphy01/data-lab)
+#### Descrição da base de dados: [Link do dataset:](https://www.kaggle.com/krismurphy01/data-lab)
 
 | Variável                 | Descrição                                                    |
 | ------------------------ | ------------------------------------------------------------ |
