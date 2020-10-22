@@ -1,5 +1,7 @@
 ![HR](https://user-images.githubusercontent.com/59807514/96502869-cbac7180-1228-11eb-878a-f7ef3f713f24.png)
 
+## Quais funcionários valiosos provavelmente sairão da empresa? Qual a provável razão ?
+
 # Rocketmat <br />
 ### Processo seletivo para Estágio em Data Science <br />
 
@@ -23,17 +25,24 @@ Data: 05/09/2020
 * [Contato](#Contato)
 * [Agradecimentos](#Agradecimentos)
 
+
 <!-- Objetivo -->
 #### Objetivo:
 
-1. Fazer  uma análise do dataset e nos explicar  quais as principais informações e como
-elas se relacionam. Deixar  claro quais as expectativas e quais as conclusões em cada passo da análise.
+ O que processo seletivo pede:
 
-2. Enumerar  possíveis problemas que se pode resolver utilizando machine learning
+    1. Fazer uma análise do dataset e nos explicar  quais as principais informações e como
+    elas se relacionam. Deixar  claro quais as expectativas e quais as conclusões em cada passo da análise.
+
+    2. Enumerar  possíveis problemas que se pode resolver utilizando machine learning
 neste dataset. Construir um ou mais modelos e nos mostrar habilidades de modelar um problema: decidindo features, labels e realizando uma experimentação. 
 
-Problemas: 
-1 -  Funcionários valiosos estão saindo prematuramente? Quais funcionários valiosos sairão em seguida ?. 
+
+
+ Análises que serão feitas:
+
+    1 -  Informações que se relacionam com a saída dos funcionários da empresa.
+    2 -  Quais funcionários valiosos provavelmente sairão da empresa? qual a provável razão ?
 
 
 <!-- Descrição da base de dados -->
