@@ -1,11 +1,6 @@
 ![HR](https://user-images.githubusercontent.com/59807514/96502869-cbac7180-1228-11eb-878a-f7ef3f713f24.png)
-
 ## Quais funcionários valiosos provavelmente sairão da empresa? Qual a provável razão ?
-
-# Rocketmat <br />
-### Processo seletivo para Estágio em Data Science <br />
-
-Data: 05/09/2020  
+  
 
 * [Link do dataset:](https://www.kaggle.com/krismurphy01/data-lab)
 
