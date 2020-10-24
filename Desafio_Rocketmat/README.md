@@ -28,7 +28,7 @@
     elas se relacionam. Deixar  claro quais as expectativas e quais as conclusões em cada passo da análise.
 
     2. Enumerar  possíveis problemas que se pode resolver utilizando machine learning
-neste dataset. Construir um ou mais modelos e nos mostrar habilidades de modelar um problema: decidindo features, labels e realizando uma experimentação. 
+    neste dataset. Construir um ou mais modelos e nos mostrar habilidades de modelar um problema: decidindo features, labels e realizando uma experimentação. 
 
 
 
