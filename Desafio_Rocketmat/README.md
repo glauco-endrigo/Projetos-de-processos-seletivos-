@@ -135,7 +135,7 @@ Os campos do conjunto de dados incluem:
  
 * Módulo Modelo_de_predição.ipynb
  
-      Esse módulo possui o modelo de machine learnin, ele chama o 2 módulo Pre_Processamento__.ipynb.
+      Esse módulo possui o modelo de machine learnin, ele chama o módulo Pre_Processamento__.ipynb.
    
    
 <!-- Sumário do módulo main -->
