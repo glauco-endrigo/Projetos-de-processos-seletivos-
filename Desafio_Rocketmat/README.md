@@ -1,6 +1,6 @@
 ![HR](https://user-images.githubusercontent.com/59807514/96502869-cbac7180-1228-11eb-878a-f7ef3f713f24.png)
 ## Quais funcionários valiosos provavelmente sairão da empresa? Qual a provável razão ?
-  
+
 
 ## Tabela de conteúdo
 * [Sobre o projeto](Sobre-o-projeto)
@@ -195,6 +195,7 @@ Os campos do conjunto de dados incluem:
       
 <!-- Fluxograma do módulo Modelo_de_predição -->
 #### Fluxograma do módulo Modelo_de_predição
+![HR](https://github.com/glauco-endrigo/Projetos-de-processos-seletivos-/blob/main/Desafio_Rocketmat/fluxograma_Modelo_de_predicao.png)
 
 <!-- Principais bibliotecas -->
 #### Principais bibliotecas
