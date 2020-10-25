@@ -133,13 +133,15 @@ Os campos do conjunto de dados incluem:
       3.1 Pré-processamento inicial
       3.2 Mapa de correlação
       3.3 Coeficiente de Correlação de Pearson
-      3.4 Distribuição de valores
-      3.5 Criando features
-      3.6 Gráficos de dispersão
-      3.7 Gráficos de violino
-      3.8 Histogramas - Escala logarítmica
-      3.9 Inspeção visual - Histogramas
-      3.10 Criando um dicionário de features
+      3.4 Filtros no mapa de correlação
+      3.5 Distribuição de valores
+      3.6 Criando features
+      3.7 Gráficos de dispersão
+      3.8 Gráficos de violino
+      3.9 Histogramas - Escala logarítmica
+      3.10 Inspeção visual - Histogramas
+      3.11 Criando um dicionário de features
+
     
    #### 4. Solução Machine Learning
       4.1 Melhores funcionários de acordo com a métrica "last_evaluation".
