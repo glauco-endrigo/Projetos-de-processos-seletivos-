@@ -122,7 +122,7 @@ Os campos do conjunto de dados incluem:
 
 * Módulo __Pre_Processamento__.ipynb
 
-      Como o nome sugere, esta função de pré-processamento. A classe 1 retorna dados processados 
+      Como o nome sugere, tem a função de pré-processamento. A classe 1 retorna dados processados 
       partir de premissas iniciais.Essa classe é usada para limpar os dados e retirar colunas que se mostram não relevantes para o objetivo inicial
       A classe 2 separa os dados em X, y para o modelo ML e separa as colunas para aplicar Enconding e Scaling
       
