@@ -133,7 +133,9 @@ Os campos do conjunto de dados incluem:
       A classe 1 para verificar valores que estão faltando e valores duplicados. 
       A classe 2 para Analise_exploratoria e visualizçâo ded ados com gráficos.
  
- * Módulo Modelo_de_predição.ipynb
+* Módulo Modelo_de_predição.ipynb
+ 
+      Esse módulo possui o modelo de machine learnin, ele chama o 2 módulo Pre_Processamento__.ipynb.
    
    
 <!-- Sumário do módulo main -->
