@@ -114,6 +114,16 @@ Os campos do conjunto de dados incluem:
 <!-- Descrição dos módulos -->
 #### Descrição dos módulos
 
+   #### Módulo Main.ipynb
+      O objetivo deste script é fazer os passos gerais para o estudos do problema. Ele
+      chama outros 2 módulos que eu criei: __Pre_Processamento__.ipynb e  visualizacao_de_dados_9.ipynb que estão descritas nos próximos subitens.
+   #### Módulo __Pre_Processamento__.ipynb
+   
+   #### visualizacao_de_dados_9.ipynb
+   
+   
+   
+   
 <!-- Sumário do módulo main -->
 #### Sumário do módulo main:
 
