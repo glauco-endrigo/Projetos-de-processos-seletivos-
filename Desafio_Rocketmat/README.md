@@ -128,6 +128,10 @@ Os campos do conjunto de dados incluem:
       
 
 * Módulo visualizacao_de_dados_9.ipynb
+     
+      Esse módulo  possui 2 classes:
+      A classe 1 para verificar valores que estão faltando e valores duplicados. A classe 2 para Analise_exploratoria e visualizçâo ded ados com gráficos.
+ 
    
    
    
