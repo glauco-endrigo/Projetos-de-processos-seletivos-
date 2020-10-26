@@ -229,14 +229,15 @@ Os campos do conjunto de dados incluem:
 
 * [pandas](http://pandas.pydata.org/)
 * [numpy](https://numpy.org/)
+* [matplotlib](https://matplotlib.org/)
 * [seaborn](https://seaborn.pydata.org/)
 * [IPython.core.display](https://ipython.readthedocs.io/en/stable/api/generated/IPython.display.html)
 * [sklearn](https://scikit-learn.org/stable/)
 * [import_ipynb](https://pypi.org/project/import-ipynb/)
 * [os](https://docs.python.org/3/library/os.html)
 * [joblib](https://joblib.readthedocs.io/en/latest/)
-
-
+* [functools](https://docs.python.org/3/library/functools.html)
+* [scipy](https://www.scipy.org/)
 
 <!-- Pré-requisitos -->
 #### Pré-requisitos
