@@ -227,10 +227,10 @@ Os campos do conjunto de dados incluem:
 <!-- Principais bibliotecas -->
 #### Principais bibliotecas
 
-[pandas](http://pandas.pydata.org/)
-[numpy](https://numpy.org/)
-[seaborn](https://seaborn.pydata.org/)
-[IPython.core.display](https://ipython.readthedocs.io/en/stable/api/generated/IPython.display.html)
+* [pandas](http://pandas.pydata.org/)
+* [numpy](https://numpy.org/)
+* [seaborn](https://seaborn.pydata.org/)
+* [IPython.core.display](https://ipython.readthedocs.io/en/stable/api/generated/IPython.display.html)
 
 
 <!-- Pré-requisitos -->
