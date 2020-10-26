@@ -13,7 +13,6 @@
    * [Fluxograma do módulo Modelo_de_predição ](#Fluxograma-do-módulo-Modelo_de_predição)
    * [Principais bibliotecas](#principais-bibliotecas)
 * [Pré-requisitos](#Pré-requisitos)
-* [Procedimentos](#Procedimentos)
 * [Licença](#Licença)
 * [Contato](#Contato)
 * [Agradecimentos](#Agradecimentos)
@@ -244,9 +243,6 @@ Os campos do conjunto de dados incluem:
 
 Para poder importar arquivos ipynb, use:
 * pip install import-ipynb 
-
-<!-- Procedimentos -->
-#### Procedimentos
 
 <!-- Licença -->
 #### Licença
